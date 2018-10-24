@@ -22,7 +22,7 @@ Originally created for http://tdgplacards.ca as a sales tool on a landing site f
 (https://raw.githubusercontent.com/ericfrisino/tdg-placard-lookup/master/screenshots/form-one-result.png?token=AC0dzNKPOtYdyVBJAXvS7WW8fRffXiJfks5b2YkRwA%3D%3D)
 
 **Form returned with multiple results**
-![Form returned with multiple results](tdg-placard-lookup/screenshots/form-multiple-results.png)
+[Form returned with multiple results](screenshots/form-multiple-results.png)
 
 ## Future to-dos
 - Implement automatic upgrade routine for the database when Open Canada updates their data.
