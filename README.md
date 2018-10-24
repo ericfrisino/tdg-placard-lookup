@@ -25,3 +25,4 @@ Originally created for http://tdgplacards.ca as a sales tool on a landing site f
 ## Future to-dos
 - Implement automatic upgrade routine for the database when Open Canada updates their data.
 - Implement deletion routine when the plugin is deleted through the plugin menu interface.
+- Create a default set to styles for the form instead of using the current theme's styles.
