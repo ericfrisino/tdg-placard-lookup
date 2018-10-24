@@ -11,7 +11,7 @@ Originally created for http://tdgplacards.ca as a sales tool on a landing site f
 ## Screenshots
 
 **Blank form ready for input**
-![Blank form ready for input] (tdg-placard-lookup/blob/master/screenshots/form-multiple-results.png)
+![Blank form ready for input] (https://raw.githubusercontent.com/ericfrisino/tdg-placard-lookup/master/screenshots/form-no-result.png?token=AC0dzBuBWUOcjJRfu5FbFyHCpSQ5F9F_ks5b2YjiwA%3D%3D)
 
 **Form returned with no results**
 ![Form returned with no results]
@@ -22,8 +22,7 @@ Originally created for http://tdgplacards.ca as a sales tool on a landing site f
 (https://raw.githubusercontent.com/ericfrisino/tdg-placard-lookup/master/screenshots/form-one-result.png?token=AC0dzNKPOtYdyVBJAXvS7WW8fRffXiJfks5b2YkRwA%3D%3D)
 
 **Form returned with multiple results**
-![Form returned with multiple results]
-(https://raw.githubusercontent.com/ericfrisino/tdg-placard-lookup/master/screenshots/form-multiple-results.png?token=AC0dzJ-mq2x1dnUX7N-tbecsEmXLFipfks5b2YgnwA%3D%3D)
+![Form returned with multiple results](tdg-placard-lookup/screenshots/form-multiple-results.png)
 
 ## Future to-dos
 - Implement automatic upgrade routine for the database when Open Canada updates their data.
