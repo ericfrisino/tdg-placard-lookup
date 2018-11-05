@@ -8,6 +8,8 @@ This plugin creates a form anywhere on your website using the shortcode `[tdg_pl
 
 Originally created for http://tdgplacards.ca as a sales tool on a landing site for customers to interact with and find out what placard they need to order.
 
+For demo purposes this plugin is being integrated into a light single site version of The Compliance Center's WP network that you will be able to see on my portfolio soon.
+
 ## Screenshots
 
 **Blank form ready for input**
