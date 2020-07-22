@@ -55,7 +55,7 @@ class tdgp_settings_page {
 		echo '    <tbody>';
 		echo '      <tr>';
 		echo '        <th style="width:200px;"> Current Database Version : </th>';
-		echo '        <td>' . $current_db_version . ' - Updated by Transport Canada on: ' . $tdgp_db_updated_on . '</td>';
+		echo '        <td>' . $current_db_version . ' - Updated by Transport Canada on ' . $tdgp_db_updated_on . '</td>';
 		echo '      </tr>';
 		if ( ! is_null( $tdgp_db_new_version ) ) {
 			echo '      <tr>';
